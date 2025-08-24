@@ -20,7 +20,7 @@
 
 <img src = "img/bcdental05.png" width = "1000">  
 
-### MailChimp
+### Site+MailChimp
 Якщо додається новий продукт, то для нього потрібно створити новий тег. Це робиться в інтерфейсі сервісу **MailChimp**.
 <img src = "img/bcdental07.png" width = "1000">  
 
@@ -29,3 +29,44 @@
 Для цього у блоці відповідної дії треба позначити тег, який треба прікріпити до користувача, що заповнуює форму.  При цьому, зв'язати поля форми для відправки даних та поля MailChimp та з'єднати сайт та відповідний обліковий запис MailChimp (робиться один раз, на цьому скріншоті не позначено).  
 
 <img src = "img/bcdental06.png" width = "1000">  
+
+### MailChimp. Lead reminder.
+Для того, щоб реалізувати ланцюг нагадування клієнту, щодо оплати (якщо він заповнив форму і не оплатив впродовж 1 години). Ми використовуємо **MailChip Automation**.
+
+<img src = "img/bcdental08.png" width = "1000">  
+
+Для створення нового flow ми можемо використати існуючий (скопіювавши його).
+
+<img src = "img/bcdental09.png" width = "1000">  
+
+Або ж створити новий:  
+
+<img src = "img/bcdental11.png" width = "1000">  
+
+В flow є такі елементи як тег, при якому запускається automation (1), час, який проходить до перевірки, чи змінився тег на той, що відповідає покупці (2), перевірка, яи є у користувача тег, який відповідає покупці (3), повідомлення, що відправляється користувачеві, який не купив за відведений термін (4).
+
+<img src = "img/bcdental12.png" width = "1000">  
+
+Клієнт періодично створює повідомлення окремо. Їх неможливо перенести в automation автоматично, тому для їх переносу, як інструмент, є створення шаблону із такого повідомлення: 
+<img src = "img/bcdental13.png" width = "1000">   
+<img src = "img/bcdental14.png" width = "1000">   
+<img src = "img/bcdental15.png" width = "1000">   
+
+<img src = "img/bcdental16.png" width = "1000">   
+<img src = "img/bcdental17.png" width = "1000">   
+<img src = "img/bcdental18.png" width = "1000">   
+<img src = "img/bcdental19.png" width = "1000">   
+<img src = "img/bcdental20.png" width = "1000">   
+<img src = "img/bcdental21.png" width = "1000">   
+<img src = "img/bcdental22.png" width = "1000">   
+<img src = "img/bcdental23.png" width = "1000">   
+<img src = "img/bcdental24.png" width = "1000">   
+<img src = "img/bcdental25.png" width = "1000">   
+<img src = "img/bcdental26.png" width = "1000">   
+<img src = "img/bcdental27.png" width = "1000">   
+<img src = "img/bcdental28.png" width = "1000">   
+<img src = "img/bcdental29.png" width = "1000">   
+<img src = "img/bcdental30.png" width = "1000">   
+
+
+
