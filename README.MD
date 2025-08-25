@@ -69,4 +69,33 @@
 <img src = "img/bcdental30.png" width = "1000">   
 
 
+### MailChimp. Participant confirmation.
+Другий тип **MailChimp Automation** - це підтвердження оплати. В рамках логіги MailChimp - це відправлення повідомлення з підтвердження оплати при застосуванні тегу participant до користувача.  
+Для створення таких Automation можна скопіювати існуючий Automation, або створити новий з нуля.
+
+<img src = "img/bcdental37.png" width = "1000">  
+<img src = "img/bcdental38.png" width = "1000">  
+<img src = "img/bcdental39.png" width = "1000">  
+<img src = "img/bcdental40.png" width = "1000">  
+<img src = "img/bcdental41.png" width = "1000">  
+<img src = "img/bcdental42.png" width = "1000">  
+<img src = "img/bcdental43.png" width = "1000">  
+<img src = "img/bcdental44.png" width = "1000">  
+<img src = "img/bcdental45.png" width = "1000">  
+<img src = "img/bcdental46.png" width = "1000">  
+<img src = "img/bcdental47.png" width = "1000">  
+<img src = "img/bcdental48.png" width = "1000">  
+<img src = "img/bcdental49.png" width = "1000">  
+<img src = "img/bcdental50.png" width = "1000">  
+<img src = "img/bcdental51.png" width = "1000">  
+<img src = "img/bcdental52.png" width = "1000">  
+<img src = "img/bcdental53.png" width = "1000">  
+<img src = "img/bcdental54.png" width = "1000">  
+<img src = "img/bcdental55.png" width = "1000">  
+<img src = "img/bcdental56.png" width = "1000">  
+
+## Zapier
+Після створення Automation для Lead тегів
+
+
 
