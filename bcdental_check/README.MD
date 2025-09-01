@@ -77,5 +77,50 @@
 Сформвана логіка, щоб всм, хто навіть просто заповнив форму - додавати тег Basic Membership. Єдине виключення - для підписників, які мають вже Premium membership.
 <img src = "img/check15.png">   
 
+#### 03.1. (2026) Mastering Porcelain Veneers - Vancouver
+<img src = "img/check16.png">   
+
+#### 03.1.b Mastering Porcelain Veneers - Toronto
+Needs t6 upgrade Premium membership check
+<img src = "img/check17.png">   
+
+#### 03.2.a. Soft Tissue Grafting Hands-On Course
+<img src = "img/check18.png">   
+
+Need to check: we have only old group. Need to update group for the new cohort.
+<img src = "img/check18_a.png">   
+
+#### 03.3.c (2026) Pediatric Dentistry Course
+<img src = "img/check19.png">   
+Знайдено помилку: клієнт змінив продукт в Stripe і не довів до відома. Через це сайт - посилався на не працюючий товар.
+https://gyazo.com/f8b19343eb6fe9982b43091249bf0bc0  
+
+https://gyazo.com/96c45ea5c29ee3e535b80c4c1480ed0b 
+
+#### 03.4.d. Crafting Anterior Teeth with Composites
+<img src = "img/check20.png">  
+Для цього продукту немає нової групи
+https://gyazo.com/ddd045d51629ffdbdd2c681bb5a7fd73
+
+#### 03.5.e. (2026) Posterior Composite Masterclass
+<img src = "img/check21.png">  
+
+#### 03.6.b. Biomimetic Restorative Dentistry: Foundation and Techniques
+Зап вимкнено, в тому числі, через те, що продукт прибраний з сайта.
+<img src = "img/check22.png">  
+
+#### 03.7.f. September 2025 Mastering the Art and Science of Endodontics
+<img src = "img/check23.png">  
 
 
+#### 03.8.g. (2026) Crown & Bridge Intensive Workshop
+
+<img src = "img/check24.png">  
+
+
+#### 4.1.b Events participant (November)
+<img src = "img/check25.png">  
+
+#### 4.2. Webinars
+Якщо користувач підписується на вебінар і до цього не підписаний на Basic чи Premium, то робимо підписку на Basic Membership
+<img src = "img/check26.png">  
