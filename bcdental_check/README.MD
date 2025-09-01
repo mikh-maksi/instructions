@@ -72,3 +72,10 @@
 
 Відписка від продукту Premium Membership
 <img src = "img/check14_a.png">  
+
+**Basic Membership**
+Сформвана логіка, щоб всм, хто навіть просто заповнив форму - додавати тег Basic Membership. Єдине виключення - для підписників, які мають вже Premium membership.
+<img src = "img/check15.png">   
+
+
+
